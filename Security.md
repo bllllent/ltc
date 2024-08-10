@@ -12,7 +12,7 @@
 
 ## Prescreen Offers Opt Out
 
-1. [OptOutPreescreen](https://www.optoutprescreen.com) - Option for permanent or must redo it every 5 years.
+[OptOutPreescreen](https://www.optoutprescreen.com) - Option for permanent or must redo it every 5 years.
 
 ## People Search Opt Out
 
