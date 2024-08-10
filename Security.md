@@ -17,7 +17,7 @@
 ## People Search Opt Out
 
 1. [EasyOptOuts](https://easyoptouts.com) - Opts out of a whole bunch of sites on your behalf, running every 4 months, for an annual subscription fee.
-2. Discover Bank Online Privacy Service - Open a Discover Bank savings account for the minimum amount and it inlcudes a people search opt out service. Can only be activated in the Discover mobile app. Runs every 90 days. 
+2. Discover Bank Online Privacy Protection - Open a Discover Bank savings account for the minimum amount and it inlcudes a people search opt out service. Can only be activated in the Discover mobile app. Runs every 90 days. 
 
 ## Do Not Call
 [National Do Not Call Registry](https://www.donotcall.gov)
