@@ -8,8 +8,8 @@
 4. [Equifax](https://my.equifax.com/membercenter/#/freeze)
 5. [TransUnion](https://www.transunion.com/credit-freeze/place-credit-freeze)
 6. [TransUnion TrueIdentity](https://membership.trueidentity.com/tucm/dashboard.page) - More convenient than regular TransUnion credit freeze
+7. [ChexSystems](https://www.chexsystems.com/security-freeze/information)
 
 ## Prescreen Opt Out
 
-1. [ChexSystems](https://www.chexsystems.com/web/chexsystems/consumerdebit/page/securityfreeze/information) - must redo it every 5 years
-2. [OptOutPreescreen](https://www.optoutprescreen.com) - option for permanent or must redo it every 5 years
+1. [OptOutPreescreen](https://www.optoutprescreen.com) - option for permanent or must redo it every 5 years
