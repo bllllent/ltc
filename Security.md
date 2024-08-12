@@ -10,6 +10,10 @@
 6. [TransUnion TrueIdentity](https://membership.trueidentity.com/tucm/dashboard.page) - More convenient than regular TransUnion credit freeze.
 7. [ChexSystems](https://www.chexsystems.com/security-freeze/information)
 
+## Data Opt Out
+
+[Lexus Nexus](https://optout.lexisnexis.com/) - Long Process
+
 ## Prescreen Offers Opt Out
 
 [OptOutPreescreen](https://www.optoutprescreen.com) - Option for permanent or must redo it every 5 years.
