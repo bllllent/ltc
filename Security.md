@@ -12,8 +12,8 @@
 
 ## Data Opt Out
 
-[Lexus Nexus](https://optout.lexisnexis.com/) - Long Process
-[Cearview AI](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/2a09e1a7-f09f-4e0c-91a2-5818abe414d5)
+1. [Lexus Nexus](https://optout.lexisnexis.com/) - Long Process
+2. [Cearview AI](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/2a09e1a7-f09f-4e0c-91a2-5818abe414d5)
 
 ## Prescreen Offers Opt Out
 
