@@ -7,6 +7,9 @@
 ## Credit Freeze
 
 1. [Innovis](https://www.innovis.com/personal/securityFreeze)
+      1. Order Credit Report
+      2. Create Account
+      3. Initiate Security Freeze
 1. [Lexis Nexus](https://consumer.risk.lexisnexis.com/freeze)
 1. [Experian](https://www.experian.com/freeze/center.html)
 1. [Equifax](https://my.equifax.com/membercenter/#/freeze)
@@ -39,7 +42,9 @@ You may want to look at [this](https://arstechnica.com/gadgets/2024/08/its-not-w
 
 1. Firewalla
 
+
 ## VPN
 
 1. Wireguard (through Firewalla)
+1. Lockdown
 
