@@ -42,6 +42,9 @@ You may want to look at [this](https://arstechnica.com/gadgets/2024/08/its-not-w
 
 1. Firewalla
 
+## Lock your Phone SIM
+
+
 
 ## VPN
 
