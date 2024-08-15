@@ -51,3 +51,7 @@ You may want to look at [this](https://arstechnica.com/gadgets/2024/08/its-not-w
 1. Wireguard (through Firewalla)
 1. Lockdown
 
+## Reference Information
+
+1. [Hackers stole every SSN](https://www.latimes.com/business/story/2024-08-13/hacker-claims-theft-of-every-american-social-security-number)
+2. [Credit Lock - HOWTO](https://pirg.org/edfund/resources/identity-theft-is-soaring-reduce-your-risk-dramatically-by-simply-freezing-your-credit-files/)
