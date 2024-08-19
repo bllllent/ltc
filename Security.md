@@ -4,8 +4,6 @@
 
 ### Why 
 
-You said:
-
 Getting a password manager is a smart move for several reasons: (source ChatGPT)
 
 1. Security: A password manager allows you to generate and store complex, unique passwords for each of your accounts. This reduces the risk of using weak or repeated passwords, which are more vulnerable to hacking.
@@ -26,7 +24,7 @@ Getting a password manager is a smart move for several reasons: (source ChatGPT)
 
 ### Basic Implementation
 
-1. Install browser plugins and install on cell phone to make it easy to use.
+1. Install browser plugins and on cell phone to make it easy to use.
 1. Visit every site you have a login and reset password to a unique long password.
 
 ### Advanced
