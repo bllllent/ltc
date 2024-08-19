@@ -1,9 +1,6 @@
 # Lessons Learned in Security
 
-# Table of Contents
-1. [Password Manager](#password)
-
-## Get a Password Manager {#password}
+## Get a Password Manager
 
 ### Why 
 
