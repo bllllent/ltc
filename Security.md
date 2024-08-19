@@ -1,8 +1,28 @@
 # Lessons Learned in Security
 
-## Passwords ##
+# Table of Contents
+1. [Password Manager](#password)
+1. [Example2](#example2)
+1. [Third Example](#third-example)
+1. [Firewall](#firewall)
 
-1. [1Password](https://1password.com/pricing)
+
+## Get a Password Manager {#password}
+
+### Why 
+
+### Basic Implementation
+
+1. Install browser plugins and install on cell phone to make it easy to use.
+1. Visit every site you have a login and reset password to a unique long password.
+
+### Advanced
+
+1. Create a digital will
+
+
+### Recommendation
+1. [1Password](https://1password.com/pricing) - ~$60/year for a family
 
 ## Credit Freeze
 
@@ -38,13 +58,13 @@ You may want to look at [this](https://arstechnica.com/gadgets/2024/08/its-not-w
 
 [National Do Not Call Registry](https://www.donotcall.gov)
 
-## Home Firewall
+## Home Firewall{#firewall}
 
 1. Firewalla
 
 ## Lock your Phone SIM
 
-
+1. Follow your providers instructions.
 
 ## VPN
 
