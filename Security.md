@@ -28,7 +28,7 @@
 </details>
 
 <details>
-  <summary>What you should do</summary>
+  <summary>How</summary>
 
   ### Basic Implementation
 
