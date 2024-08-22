@@ -88,13 +88,24 @@ You may want to look at [this](https://arstechnica.com/gadgets/2024/08/its-not-w
 
 [National Do Not Call Registry](https://www.donotcall.gov)
 
-## Home Firewall{#firewall}
+## Home Firewall
 
 1. Firewalla
 
 ## Lock your Phone SIM
+<details>
+  <summary>Why</summary>
+  
+  Number Lock is a security feature that protects your SIM (physical SIM or eSIM) from unauthorized changes. Your SIM is the chip that connects your phone to the Mint Mobile network, allowing you to make calls, send texts and use mobile data. It stores your account information and your phone number. Enabling Number Lock helps prevent shady characters from hijacking your SIM, your phone number and ultimately your account.  
+  
+</details>
 
-1. Follow your providers instructions.
+<details>
+  <summary>How</summary>
+
+  1. Follow your providers instructions. eg [Mint](https://www.mintmobile.com/help/what-is-number-lock/?srsltid=AfmBOoqY9RZF5yNipExw4Wvx5EB6ImCUk_uAchygty9YA8yD-0h2aW8a)
+
+</details>
 
 ## VPN
 
