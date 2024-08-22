@@ -45,16 +45,27 @@
 
 ## Credit Freeze
 
-1. [Innovis](https://www.innovis.com/personal/securityFreeze)
+<details>
+  <summary>The Big Three</summary>
+  
+  1. [Experian](https://www.experian.com/freeze/center.html) or call 888-397-3742
+  1. [Equifax](https://my.equifax.com/membercenter/#/freeze) or call 800-525-6285
+  1. [TransUnion](https://www.transunion.com/credit-freeze/place-credit-freeze) or call 800-680-7289
+     
+</details>
+
+<details>
+  <summary>The Others</summary>
+  
+  1. [Innovis](https://www.innovis.com/personal/securityFreeze)
       1. Order Credit Report
-      2. Create Account
-      3. Initiate Security Freeze
-1. [Lexis Nexus](https://consumer.risk.lexisnexis.com/freeze)
-1. [Experian](https://www.experian.com/freeze/center.html) or call 888-397-3742
-1. [Equifax](https://my.equifax.com/membercenter/#/freeze) or call 800-525-6285
-1. [TransUnion](https://www.transunion.com/credit-freeze/place-credit-freeze) or call 800-680-7289
-1. [TransUnion TrueIdentity](https://membership.trueidentity.com/tucm/dashboard.page) - More convenient than regular TransUnion credit freeze.
-1. [ChexSystems](https://www.chexsystems.com/security-freeze/information)
+      1. Create Account
+      1. Initiate Security Freeze
+  1. [Lexis Nexus](https://consumer.risk.lexisnexis.com/freeze)
+  1. [TransUnion TrueIdentity](https://membership.trueidentity.com/tucm/dashboard.page) - More convenient than regular TransUnion credit freeze.
+  1. [ChexSystems](https://www.chexsystems.com/security-freeze/information)
+     
+</details>
 
 ## Data Opt Out
 
