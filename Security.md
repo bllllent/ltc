@@ -62,9 +62,8 @@
       1. Create Account
       1. Initiate Security Freeze
   1. [Lexis Nexus](https://consumer.risk.lexisnexis.com/freeze)
-  1. [TransUnion TrueIdentity](https://membership.trueidentity.com/tucm/dashboard.page) - More convenient than regular TransUnion credit freeze.
   1. [ChexSystems](https://www.chexsystems.com/security-freeze/information)
-     
+  2. 
 </details>
 
 ## Data Opt Out
