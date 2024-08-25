@@ -3,7 +3,8 @@
 ## Get a Password Manager
 
 ### Recommendation
-1. [1Password](https://1password.com/pricing) - ~$60/year for a family
+
+[1Password](https://1password.com/pricing) - ~$60/year for a family
 
 <details>
   <summary>Why</summary>
@@ -51,7 +52,6 @@
   1. [Experian](https://www.experian.com/freeze/center.html) or call 888-397-3742
   1. [Equifax](https://my.equifax.com/membercenter/#/freeze) or call 800-525-6285
   1. [TransUnion](https://www.transunion.com/credit-freeze/place-credit-freeze) or call 800-680-7289
-     
 </details>
 
 <details>
@@ -63,21 +63,21 @@
       1. Initiate Security Freeze
   1. [Lexis Nexus](https://consumer.risk.lexisnexis.com/freeze)
   1. [ChexSystems](https://www.chexsystems.com/security-freeze/information)
-  2. 
 </details>
 
 ## Data Opt Out
 
-1. [Lexus Nexus](https://optout.lexisnexis.com/) - Long Process
-1. [Cearview AI](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/2a09e1a7-f09f-4e0c-91a2-5818abe414d5)
+1. [Lexus Nexus](https://optout.lexisnexis.com/) - Takes 30 days to come into effect
+1. [Clearview AI](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/2a09e1a7-f09f-4e0c-91a2-5818abe414d5) - These guys enable face recognition from surveillance cameras for law enforcement and who knows what else.
 
 ## Prescreen Offers Opt Out
 
-[OptOutPreescreen](https://www.optoutprescreen.com) - Option for permanent or must redo it every 5 years.
+1. [OptOutPreescreen](https://www.optoutprescreen.com) - Option for permanent or must redo it every 5 years.
+1. [ChexSystems](https://chexsystems.eto.fiscloudservices.com/#/opt-out) - Option for permanent or must redo it every 5 years.
 
 ## People Search Opt Out
 
-You may want to look at [this](https://arstechnica.com/gadgets/2024/08/its-not-worth-paying-to-be-removed-from-people-finder-sites-study-says/) first.
+You may want to look at this [ArsTechnica article about people finder sites](https://arstechnica.com/gadgets/2024/08/its-not-worth-paying-to-be-removed-from-people-finder-sites-study-says/) first.
 
 1. [EasyOptOuts](https://easyoptouts.com) - Opts out of a whole bunch of sites on your behalf, running every 4 months, for an annual subscription fee.
 1. [Deleteme](https://joindeleteme.com/) - Also $$
@@ -89,27 +89,28 @@ You may want to look at [this](https://arstechnica.com/gadgets/2024/08/its-not-w
 
 ## Home Firewall
 
-1. Firewalla
+[Firewalla](https://firewalla.com)
 
 ## Lock your Phone SIM
 <details>
   <summary>Why</summary>
   
-  Number Lock is a security feature that protects your SIM (physical SIM or eSIM) from unauthorized changes. Your SIM is the chip that connects your phone to the Mint Mobile network, allowing you to make calls, send texts and use mobile data. It stores your account information and your phone number. Enabling Number Lock helps prevent shady characters from hijacking your SIM, your phone number and ultimately your account.  
+Number Lock is a security feature that protects your SIM (physical SIM or eSIM) from unauthorized changes. Your SIM is the chip that connects your phone to the Mint Mobile network, allowing you to make calls, send texts and use mobile data. It stores your account information and your phone number. Enabling Number Lock helps prevent shady characters from hijacking your SIM, your phone number and ultimately your account.  
   
 </details>
 
 <details>
   <summary>How</summary>
 
-  1. Follow your providers instructions. eg [Mint](https://www.mintmobile.com/help/what-is-number-lock/?srsltid=AfmBOoqY9RZF5yNipExw4Wvx5EB6ImCUk_uAchygty9YA8yD-0h2aW8a)
+  1. Follow your providers instructions.
+     1. [Mint](https://www.mintmobile.com/help/what-is-number-lock/?srsltid=AfmBOoqY9RZF5yNipExw4Wvx5EB6ImCUk_uAchygty9YA8yD-0h2aW8a)
 
 </details>
 
 ## VPN
 
 1. Wireguard (through Firewalla)
-1. Lockdown
+1. [Lockdown Privacy](https://lockdownprivacy.com)
 
 ## Reference Information
 
