@@ -87,6 +87,10 @@ You may want to look at this [ArsTechnica article about people finder sites](htt
 
 [National Do Not Call Registry](https://www.donotcall.gov)
 
+## Yellow Pages Opt Out
+
+[Yellow Pages Opt Out](https://www.yellowpagesoptout.com) - Opt out of receiving Yellow Pages book in the mail. Save some trees. 
+
 ## Home Firewall
 
 [Firewalla](https://firewalla.com)
