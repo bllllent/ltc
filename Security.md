@@ -47,22 +47,54 @@
 ## Credit Freeze
 
 <details>
-  <summary>The Big Three</summary>
-  
-  1. [Experian](https://www.experian.com/freeze/center.html) or call 888-397-3742
-  1. [Equifax](https://my.equifax.com/membercenter/#/freeze) or call 800-525-6285
-  1. [TransUnion](https://www.transunion.com/credit-freeze/place-credit-freeze) or call 800-680-7289
-</details>
-
+  <summary>Why</summary>
+  Freezing your credit is a good way to protect yourself against identity theft and unauthorized credit activity. 
+</details>  
 <details>
-  <summary>The Others</summary>
+  <summary>How</summary>
+Here’s how you can do it:
+
+1. Contact the Credit Bureaus
+You need to request a credit freeze from each of the three major credit bureaus (and others) in the United States.
   
-  1. [Innovis](https://www.innovis.com/personal/securityFreeze)
-      1. Order Credit Report
-      1. Create Account
-      1. Initiate Security Freeze
-  1. [Lexis Nexus](https://consumer.risk.lexisnexis.com/freeze)
-  1. [ChexSystems](https://www.chexsystems.com/security-freeze/information)
+   1. [Experian](https://www.experian.com/freeze/center.html) or call 888-397-3742
+   1. [Equifax](https://my.equifax.com/membercenter/#/freeze) or call 800-525-6285
+   1. [TransUnion](https://www.transunion.com/credit-freeze/place-credit-freeze) or call 800-680-7289
+
+   and
+
+   1. [Innovis](https://www.innovis.com/personal/securityFreeze)
+   1. [Lexis Nexus](https://consumer.risk.lexisnexis.com/freeze)
+   1. [ChexSystems](https://www.chexsystems.com/security-freeze/information)
+
+
+1. Provide Necessary Information
+When freezing your credit, you’ll need to provide:
+Your full name
+Social Security number
+Date of birth
+Address (and possibly previous addresses)
+Proof of identity (such as a driver’s license, utility bill, or passport)
+
+1. Receive a PIN or Password
+After you freeze your credit, the bureaus will provide you with a PIN or password. Keep this information safe, as you’ll need it to lift the freeze when necessary.
+
+1. Freeze for Free
+Since September 21, 2018, freezing and unfreezing your credit is free under federal law.
+
+5. Verify the Freeze
+After you’ve completed the process, verify that your credit has been successfully frozen by checking with the bureaus.
+
+6. Freezing Credit for Minors
+If you want to freeze the credit of a minor, you will need to provide additional documentation to prove that you are their legal guardian.
+
+7. Lifting the Freeze
+When you need to temporarily or permanently lift the freeze (e.g., when applying for a loan or credit card), you can do so using the PIN or password provided. You can lift it online, by phone, or by mail.
+
+Additional Tips:
+Consider a Fraud Alert: If you're concerned about identity theft but not ready to freeze your credit, you can place a fraud alert on your credit report. This is less restrictive than a freeze.
+Monitor Your Credit: Even with a credit freeze, it’s a good idea to monitor your credit regularly to ensure there are no unauthorized activities.
+
 </details>
 
 ## Data Opt Out
