@@ -148,6 +148,10 @@ Number Lock is a security feature that protects your SIM (physical SIM or eSIM) 
 1. Wireguard (through Firewalla)
 1. [Lockdown Privacy](https://lockdownprivacy.com)
 
+## Full solutions
+
+1. [Aura](https://www.aura.com/)
+
 ## Reference Information
 
 1. [Hackers stole every SSN](https://www.latimes.com/business/story/2024-08-13/hacker-claims-theft-of-every-american-social-security-number)
