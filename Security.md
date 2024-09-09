@@ -99,7 +99,8 @@ Monitor Your Credit: Even with a credit freeze, it’s a good idea to monitor yo
 
 ## Data Opt Out
 
-1. [Lexus Nexus](https://optout.lexisnexis.com/) - Takes 30 days to come into effect
+1. [Permission Slip by Consumer Reports](https://permissionslipcr.com/download.php) - Free, automatic opt out requests to hundreds of companies, including data brokers.
+1. [Lexus Nexus](https://optout.lexisnexis.com/) - Takes 30 days to come into effect.
 1. [Clearview AI](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/2a09e1a7-f09f-4e0c-91a2-5818abe414d5) - These guys enable face recognition from surveillance cameras for law enforcement and who knows what else.
 
 ## Prescreen Offers Opt Out
