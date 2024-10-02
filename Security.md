@@ -97,6 +97,17 @@ Monitor Your Credit: Even with a credit freeze, it’s a good idea to monitor yo
 
 </details>
 
+## IRS PIN
+
+<details>
+  <summary>Why</summary>
+  Prevent other people from fraudulently filing in your name (even if you don’t need to send in a return). 
+</details>  
+<details>
+  <summary>How</summary>
+  [Get an identity protection PIN (IP PIN)](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin)
+</details>
+
 ## Data Opt Out
 
 1. [Permission Slip by Consumer Reports](https://permissionslipcr.com/download.php) - Free, automatic opt out requests to hundreds of companies, including data brokers.
