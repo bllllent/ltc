@@ -105,7 +105,7 @@ Monitor Your Credit: Even with a credit freeze, it’s a good idea to monitor yo
 </details>  
 <details>
   <summary>How</summary>
-  [Get an identity protection PIN (IP PIN)](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin)
+  [Get an identity protection PIN](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin)
 </details>
 
 ## Data Opt Out
