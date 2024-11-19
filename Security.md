@@ -127,6 +127,11 @@ You may want to look at this [ArsTechnica article about people finder sites](htt
 1. [Deleteme](https://joindeleteme.com/) - Also $$
 1. Discover Bank Online Privacy Protection - Open a Discover Bank savings account for the minimum amount and it inlcudes a people search opt out service. Can only be activated in the Discover mobile app. Runs every 90 days. 
 
+
+## Google Personal Info
+
+[Google Results About You](https://myactivity.google.com/results-about-you) - Find personal info you see on Google. You can ask to remove any results that bother you.
+
 ## Do Not Call
 
 [National Do Not Call Registry](https://www.donotcall.gov)
